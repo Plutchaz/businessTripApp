@@ -1,0 +1,14 @@
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.exe
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.deps.json
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.runtimeconfig.json
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.runtimeconfig.dev.json
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.dll
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\bin\Debug\netcoreapp3.1\businessTripApp.pdb
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.csproj.AssemblyReference.cache
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.AssemblyInfoInputs.cache
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.AssemblyInfo.cs
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.csproj.CoreCompileInputs.cache
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.dll
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.pdb
+C:\Users\Valen Pretycia\source\repos\businessTripApp\businessTripApp\obj\Debug\netcoreapp3.1\businessTripApp.genruntimeconfig.cache
